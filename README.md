@@ -1,5 +1,5 @@
 # Chain-Cube
 Prototype 
 
-![photo1649959165](https://user-images.githubusercontent.com/39438445/163450121-d79a8c96-ab5d-4796-9c05-4e413aece29b.jpeg)
-![photo1649959165 (1)](https://user-images.githubusercontent.com/39438445/163450126-4b0ce9ab-8d98-4850-8862-fa87496bfe14.jpeg)
+
+![Screenshot_20220418-184945_New Unity Project](https://user-images.githubusercontent.com/39438445/163855773-4a47548c-f73e-44f4-a0e3-5a83a4f130da.jpg)
